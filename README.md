@@ -1,4 +1,4 @@
-# Can-GPT-4-Replace-Human-Examiners-A-Competition-on-Checking-Open-Text-Answers
+# GPT-4 Shows Comparable Performance to Human Examiners in Ranking Open-Text Answers
 
 Accompanying code for the paper "Can GPT-4 Replace Human Examiners? A Competition on Checking Open-Text Answers" by the authors:
 
@@ -176,8 +176,8 @@ Dataset Citation:
                   Geschwind, Stephan and
                   Graf Lambsdorff, Johann and
                   Voss, Deborah},
-  title        = {{Can GPT-4 Replace Human Examiners?  A Competition 
-                   on Checking Open-Text Answers}},
+  title        = {{GPT-4 Shows Comparable Performance to Human 
+                   Examiners in Ranking Open-Text Answers}},
   month        = apr,
   year         = 2024,
   publisher    = {Zenodo},
@@ -185,6 +185,7 @@ Dataset Citation:
   url          = {https://doi.org/10.5281/zenodo.11085379}
 }
 ```
+
 
 
 Paper Citation [pre-print]:
